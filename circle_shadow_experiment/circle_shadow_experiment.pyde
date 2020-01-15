@@ -19,4 +19,5 @@ def setup():
         fill(random(80, 160), random(100, 255), 180)
         circle(center[0], center[1], (h / 25) + 50)
     
+    save("circle_shadows.jpg")
     
