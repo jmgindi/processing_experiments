@@ -16,7 +16,7 @@
 ![archipelago_map](map_maker/map.jpg)
 
 ### VJ_TOOLS_1
-![vj_tools_1](VJ_TOOLS_1/vj_tools_1.gif)
+![vj_tools_1](VJ_Tools_1/vj_tools_1.gif)
 
 
 ## Thanks
