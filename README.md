@@ -15,8 +15,9 @@
 ### Map Maker
 ![archipelago_map](map_maker/map.jpg)
 
-### VJ_TOOLS_01
-random spinny bits, flashes the background white when you click!
+### VJ_TOOLS_1
+![vj_tools_1](VJ_TOOLS_1/vj_tools_1.gif)
+
 
 ## Thanks
 
