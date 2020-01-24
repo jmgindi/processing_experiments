@@ -14,7 +14,7 @@ def setup():
 
 def draw():
     global x, y, z, i, bg, m
-    scale_m = [1, 1, 1] # [noise(i), noise(i + 250), noise(i + 500)]
+    scale_m = [noise(i), noise(i + 250), noise(i + 500)]
     if mousePressed:
         m = 2
         bg = 250
