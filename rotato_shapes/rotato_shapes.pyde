@@ -2,8 +2,9 @@ t = 0
 n = 90
 
 def setup():
-    size(1920, 1080)
-    fullScreen()
+    # size(1920, 1080)
+    size(1280, 720)
+    # fullScreen()
     background(0)
     frameRate(60)
     strokeWeight(2)
