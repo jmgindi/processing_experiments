@@ -19,6 +19,7 @@
 ![vj_tools_1](VJ_Tools_1/vj_tools_1.gif)
 
 ### VJ_TOOLS_2
+![vj_tools_2](VJ_Tools_2/vj_tools_2.gif)
 
 ### rotato_shapes
 ![rotato_shapes](rotato_shapes/rotato_shapes.gif)
